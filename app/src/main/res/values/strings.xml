@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tippy</string>
+    <string name="made_by">Made in \uD83C\uDDF0\uD83C\uDDFF By Igor</string>
+    <string name="commission">Комиссия</string>
+    <string name="deposit">Депозит</string>
+    <string name="total">Сумма</string>
+    <string name="pension">Пенсионный</string>
+    <string name="optimal">Оптимальный</string>
+    <string name="comfort">Комфорт</string>
+    <string name="businessman">Бизнесмен</string>
+    <string name="maximum">Максимум</string>
+</resources>
